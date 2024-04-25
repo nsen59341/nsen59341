@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natasha Sen
 - 👀 I’m interested in Website and App development
-- 🌱 I’m currently learning VueJS and Python
-- 💞️ I’m looking to collaborate on VueJS and Python Application
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on ReactJS and Python Application
 - 📫 Reach me through nsen59341@gmail.com
 
 <!---
